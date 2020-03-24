@@ -1,0 +1,12 @@
+{
+    "name": "emre/atolye15",
+    "authors": [
+        {
+            "name": "Emre Baskın",
+            "email": "emre.bskn@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.0"
+    }
+}

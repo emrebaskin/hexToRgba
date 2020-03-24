@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit colors="true" bootstrap="HexToRgba.php">
+    <testsuites>
+        <testsuite name="Hex to RGB Tests">
+            <directory>./tests/HexToRgbaTest.php</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
